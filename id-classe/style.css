@@ -1,0 +1,38 @@
+/* id = # class .*/
+*{
+    margin: 0;
+    padding: 0;
+    }
+#titulo-principal{
+ background-color: #542369;   
+ text-align: center;
+ color: white;
+}
+.basico{
+    font-family: sans-serif;
+    color: darkseagreen;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+.intermediario{
+    font-family: sans-serif;
+    color:orange;
+    font-weight: bold;
+    font-size: 1.8em;   
+}
+
+.avancado{
+    font-family: sans-serif;
+    color: blue;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+.destaque{
+    background-color: gold;
+}
+p{
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-align: justify;
+}
